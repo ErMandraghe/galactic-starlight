@@ -1,2 +1,2 @@
 # galactic-starlight
-The Galactic Starlight 
+The Galactic Starlight code utilizes the Python Turtle module to create a mesmerizing star pattern. A green and cyan filled star is drawn at the center, surrounded by a series of red lines forming an intricate design resembling cosmic rays. The star's formation is achieved through a series of carefully orchestrated movements, loops, and pen adjustments, resulting in a visually captivating artwork reminiscent of a starry night sky. Run the code and watch as the Galactic Starlight unfolds before your eyes, bringing a touch of celestial beauty to your screen.
